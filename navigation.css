@@ -15,7 +15,8 @@ body {
 }
 a {
 	text-decoration: none;
-	color: red;
+	color: white;
+	font-size: 1.4em;
 }
 /*1. When the user hovers over one of the links, the color of the text should change. */
 
